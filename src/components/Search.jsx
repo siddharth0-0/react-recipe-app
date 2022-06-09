@@ -30,7 +30,7 @@ function Search() {
 }
 
 const FormStyle = styled.form`
-    margin:1rem 5rem;
+    margin:0.5rem 8rem;
     
     div{
         position:relative;
@@ -39,7 +39,7 @@ const FormStyle = styled.form`
     input{
         border:none;
         background: linear-gradient(35deg, #494949, #313131);
-        font-size:1.5rem;
+        font-size:1rem;
         color:white;
         padding:1rem 3rem;
         border:none;
